@@ -48,4 +48,5 @@ export default function SmokeEffect({ isActive }: SmokeEffectProps) {
       ))}
     </div>
   )
+
 }
